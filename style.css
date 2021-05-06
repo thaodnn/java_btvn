@@ -1,0 +1,29 @@
+.td
+{
+color: #34495e;
+}
+
+a 
+{
+  color: blue;
+  font-size: x-large;
+  font-weight: 400;
+}
+.the1
+{
+  color: brown;
+  font-size: x-large;
+  font-weight: 700;
+}
+#t
+{
+  color: chocolate;
+}
+.cont
+{
+ color: crimson;
+}
+.cont.class2 
+{
+ font-size: xx-large;
+}
